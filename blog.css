@@ -52,8 +52,8 @@ section.post-head small {
 section.post-foot {
   font-size: 14px;
   border-top: solid 1px #eee;
-  margin: 20px 0 0;
-  padding: 20px 0 0;
+  margin: 20px 0 0 ;
+  padding: 20px 0 0 ;
 }
 
 footer {
